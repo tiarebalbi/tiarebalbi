@@ -10,7 +10,7 @@ Software Engineer that can be described as a serious enthusiast of technology, f
 - Dublin, Ireland 🇮🇪
 - Software Engineer [@Workday](https://github.com/Workday)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=balbitiare&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=balbitiare&cover_image=false)](https://open.spotify.com/user/balbitiare)
 
 
 ## Latest Blog Posts
