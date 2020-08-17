@@ -26,7 +26,7 @@ In the overview below you will find the most recent posts of my blog.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tiarebalbi)
 
-![tiarebalbi's github stats](https://github-readme-stats.vercel.app/api?username=tiarebalbi&count_private=true&show_icons=true&theme=onedark)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tiarebalbi)](https://github.com/tiarebalbi)
 
 <!--START_SECTION:waka-->
 ```text
