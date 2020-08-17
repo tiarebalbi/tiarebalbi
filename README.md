@@ -1,16 +1,15 @@
-### Hi there 👋
+#### Hello
+# I'm Tiarê
 
-<!--
-**tiarebalbi/tiarebalbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer that can be described as a serious enthusiast of technology, fortuned to work with one of my biggest passion, software development. Finding different ways to solve different problems.
 
-Here are some ideas to get you started:
+- Dublin, Ireland
+- Software Engineer @Workday
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technologies
+![](https://img.shields.io/badge/Lang-Scala-informational?style=flat&logo=scala&logoColor=white&color=DC322F)
+![](https://img.shields.io/badge/Lang-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6b70fc)
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+
+![tiarebalbi's github stats](https://github-readme-stats.vercel.app/api?username=tiarebalbi&count_private=true&show_icons=true&theme=onedark)
