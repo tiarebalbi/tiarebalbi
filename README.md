@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Lang-Scala-informational?style=flat&logo=scala&logoColor=white&color=DC322F)
 ![](https://img.shields.io/badge/Lang-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6b70fc)
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Lang-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=8b2f7e)
 
 
 Software Engineer that can be described as a serious enthusiast of technology, fortuned to work with one of my biggest passion, software development. Finding different ways to solve different problems.
