@@ -28,4 +28,7 @@ In the overview below you will find the most recent posts of my blog.
 ![tiarebalbi's github stats](https://github-readme-stats.vercel.app/api?username=tiarebalbi&count_private=true&show_icons=true&theme=onedark)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
