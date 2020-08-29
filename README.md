@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Lang-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=8b2f7e)
 
-Software Engineer that can be described as a serious enthusiast of technology, fortuned to work with one of my biggest passion, software development. Finding different ways to solve different problems.
+$ Software Engineer that can be described as a serious enthusiast of technology, fortuned to work with one of my biggest passion, software development. Finding different ways to solve different problems.
 
 - Dublin, Ireland 🇮🇪
 - Software Engineer [@Workday](https://github.com/Workday)
