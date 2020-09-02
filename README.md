@@ -31,10 +31,10 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Other      2 hrs 13 mins   ████████░░░░░░░░░░░░░░░░░   32.00 % 
-YAML       2 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   31.26 % 
-JSON       59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-CSV        39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Markdown   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Other      1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Markdown   1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+JSON       59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 % 
+CSV        39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Kotlin     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 <!--END_SECTION:waka-->
