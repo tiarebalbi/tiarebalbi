@@ -15,7 +15,7 @@
 <a href="https://www.codechef.com/users/tiare balbi bonamini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tiare balbi bonamini" height="30" width="40" /></a>
 </p>
 
-## Latest Blog Posts
+### Latest Blog Posts
 
 In the overview below you will find the most recent posts of my blog.
 
