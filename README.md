@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.tiarebalbi.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile">Tiarê Balbi Bonamini</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://tiarebalbi.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile">Tiarê Balbi Bonamini</a></h1>
 
 <h3 align="center">Software Engineer that can be described as a serious enthusiast of technology, fortuned to work with one of my biggest passion, software development. Finding different ways to solve different problems.</h3>
 
