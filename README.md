@@ -32,10 +32,10 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-YAML       1 hr 27 mins    █████████▒░░░░░░░░░░░░░░░   37.38 % 
-Jinja2     1 hr 14 mins    ████████░░░░░░░░░░░░░░░░░   31.92 % 
-Markdown   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Other      14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Config     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Jinja2   1 hr 14 mins    ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Text     55 mins         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Java     42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 % 
+YAML     32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 <!--END_SECTION:waka-->
