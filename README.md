@@ -33,7 +33,7 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 ```text
 Java    1 hr 24 mins    ██████████████▒░░░░░░░░░░   57.98 % 
-Other   29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Other   29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 Text    23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 Scala   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 YAML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
