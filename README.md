@@ -32,10 +32,10 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Java         6 hrs 30 mins   ████████████████████▒░░░░   81.68 % 
-Scala        30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Groovy       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Java         5 hrs 59 mins   ████████████████████░░░░░   80.54 % 
+Scala        30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Groovy       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 <!--END_SECTION:waka-->
