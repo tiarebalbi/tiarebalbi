@@ -30,6 +30,6 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-YAML   35 mins         █████████████████████████   100.00 % 
+YAML         35 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
