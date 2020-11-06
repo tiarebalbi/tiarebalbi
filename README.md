@@ -30,9 +30,9 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-YAML         35 mins         ████████████████▓░░░░░░░░   66.38 % 
-Properties   8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Java         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Properties   8 mins          ██████████░░░░░░░░░░░░░░░   39.36 % 
+Java         7 mins          ████████▒░░░░░░░░░░░░░░░░   33.57 % 
+YAML         4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Other        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 ```
 <!--END_SECTION:waka-->
