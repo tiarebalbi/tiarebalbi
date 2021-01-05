@@ -25,10 +25,10 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin       7 hrs 6 mins    ███████████████▒░░░░░░░░░   61.71 % 
-Terraform    1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Properties   1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-YAML         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-SQL          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Kotlin       8 hrs 19 mins   ████████████████▒░░░░░░░░   65.32 % 
+Terraform    1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Properties   1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+YAML         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+SQL          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
