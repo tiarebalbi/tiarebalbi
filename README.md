@@ -25,8 +25,6 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Scala        3 hrs 9 mins    ██████████████████████░░░   87.73 % 
-Other        23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Bash   7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
