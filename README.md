@@ -25,10 +25,10 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Scala            8 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.38 % 
-Sketch Drawing   5 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Dart             5 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.79 % 
-JavaScript       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Java             1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Dart             13 hrs 59 mins  ████████████████░░░░░░░░░   63.83 % 
+JavaScript       1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+YAML             1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Sketch Drawing   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Scala            50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 <!--END_SECTION:waka-->
