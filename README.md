@@ -25,10 +25,10 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Dart     20 hrs 25 mins  ████████████████████░░░░░   79.65 % 
-Kotlin   2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-HTML     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Java     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Dart     16 hrs 56 mins  █████████████████░░░░░░░░   67.99 % 
+Kotlin   5 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+HTML     1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Java     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 YAML     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 <!--END_SECTION:waka-->
