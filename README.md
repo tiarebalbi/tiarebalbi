@@ -25,10 +25,6 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   46 mins         ████████▒░░░░░░░░░░░░░░░░   33.98 % 
-JSX      40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.72 % 
-Bash     16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Scala    9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Other    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
