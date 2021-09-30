@@ -25,8 +25,6 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Java         2 hrs 3 mins    ███████████████████████▓░   94.55 % 
-Properties   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Groovy       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
