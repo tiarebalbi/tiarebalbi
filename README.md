@@ -25,6 +25,7 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   8 hrs 18 mins   ████████████████████░░░░░   79.75 % 
+CSS          2 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 ```
 <!--END_SECTION:waka-->
