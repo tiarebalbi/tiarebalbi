@@ -25,7 +25,8 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin   10 mins         ████████████████▒░░░░░░░░   65.26 % 
-YAML     3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.60 % 
+Kotlin   10 mins         ██████████████▓░░░░░░░░░░   59.28 % 
+YAML     3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Java     2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 ```
 <!--END_SECTION:waka-->
