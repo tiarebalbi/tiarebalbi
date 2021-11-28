@@ -25,8 +25,6 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-sbt          8 mins          █████████████▓░░░░░░░░░░░   54.48 % 
-Properties   4 mins          ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Markdown     1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
