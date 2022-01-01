@@ -25,6 +25,10 @@ In the overview below you will find the most recent posts of my blog.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+LESS         1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+JavaScript   1 hr 17 mins    █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript   1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
+JSON         1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+MDX          25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 <!--END_SECTION:waka-->
