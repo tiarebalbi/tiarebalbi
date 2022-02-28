@@ -24,11 +24,14 @@ In the overview below you will find the most recent posts of my blog.
 * [Bulkhead, managing concurrent requests](https://tiarebalbi.com/article/week-2-bulkhead-managing-concurrent-requests?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   12 hrs 44 mins  ████████▓░░░░░░░░░░░░░░░░   34.21 % 
-Java         10 hrs 24 mins  ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Terraform    3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-YAML         2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-LESS         2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+TypeScript      14 hrs 58 mins  ███████████░░░░░░░░░░░░░░   43.75 %
+Java            10 hrs 24 mins  ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+LESS            2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JavaScript      2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+YAML            1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON            44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
+
 <!--END_SECTION:waka-->
