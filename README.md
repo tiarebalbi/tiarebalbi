@@ -26,12 +26,12 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin          2 hrs 11 mins   █████████████░░░░░░░░░░░░   52.22 %
-PlantUML file   1 hr 23 mins    ████████▒░░░░░░░░░░░░░░░░   33.15 %
-TypeScript      14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Properties      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-YAML            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Markdown        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+PlantUML file   1 hr 24 mins    ██████████████▒░░░░░░░░░░   57.72 %
+Kotlin          47 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
+CSV/TSV         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Properties      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Markdown        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+YAML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
