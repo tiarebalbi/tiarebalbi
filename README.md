@@ -26,12 +26,12 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       1 hr 2 mins     ██████████▒░░░░░░░░░░░░░░   41.93 %
-SCSS             27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-Kotlin           21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Java             9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Bash             7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-JavaScript       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+TypeScript       8 hrs           ███████████████▒░░░░░░░░░   61.18 %
+Kotlin           2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+Java             56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+SCSS             27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+CSS              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Bash             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
