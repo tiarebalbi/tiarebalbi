@@ -26,7 +26,12 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin         7 hrs 58 mins   ██████████████░░░░░░░░░░░   56.12 %
+YAML           3 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+JavaScript     1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Groovy         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Markdown       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Java           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
