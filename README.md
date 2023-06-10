@@ -28,11 +28,11 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       19 hrs 11 mins  █████████████████████▒░░░   85.70 %
-CSS              2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-JavaScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Prisma           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-JSON             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TypeScript      20 hrs 28 mins  ███████████████████████░░   92.08 %
+CSS             1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JavaScript      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JSON            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Prisma          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
