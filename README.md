@@ -2,7 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://tiarebalbi.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile">Tiarê Balbi Bonamini</a></h1>
 
-<h3 align="center">Software Engineer that can be described as a serious enthusiast of technology, fortuned to work with one of my biggest passion, software development. Finding different ways to solve different problems.</h3>
+<p>
+  With over a decade of immersion in multiple languages and frameworks, I’ve honed an adaptability that allows me to rise to any challenge. I am a software engineer at heart, deeply passionate about technology and fortunate enough to transform this passion into my profession. My intrigue lies in discovering unique solutions to diverse problems.
+</p>
+
+<p>
+  
+My journey in the realm of software development commenced in 2006, and ever since, I’ve been engaged in comprehensive projects of various scales. My expertise spans from crafting software design to ushering it successfully to market. I pride myself on my ability to manage all aspects of the development process, making sure each solution is tailor-fit for its intended purpose.
+  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiarebalbi" alt="tiarebalbi" /> </p>
 
