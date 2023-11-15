@@ -36,7 +36,7 @@ In the overview below you will find the most recent posts of my blog.
 
 ```txt
 Kotlin       17 hrs 33 mins  █████████████████████▒░░░   85.96 %
-Jav          1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Java         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
 .env file    40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 Bash         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
