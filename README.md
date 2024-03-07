@@ -35,8 +35,7 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          ███████████████████████▓░   94.71 %
-Kotlin       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
