@@ -35,7 +35,9 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   3 hrs 30 mins   ███████████████████████░░   92.26 %
+CSS          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
