@@ -35,11 +35,11 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            16 hrs 48 mins  ███████████████████████░░   92.00 %
-YAML              1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-protobuf          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Perl              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Protocol Buffer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Kotlin            14 hrs 59 mins  ██████████████████████▓░░   90.59 %
+YAML              1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+protobuf          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Perl              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
