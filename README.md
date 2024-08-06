@@ -43,3 +43,5 @@ Bash                  52 mins         █░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tiarebalbi)](https://github.com/ryo-ma/github-profile-trophy)
