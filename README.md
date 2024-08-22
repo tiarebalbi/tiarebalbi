@@ -35,11 +35,11 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              9 hrs 55 mins   ███████████▓░░░░░░░░░░░░░   46.54 %
-TypeScript        3 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-Markdown          2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-CSS               1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-PHP               54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+YAML              10 hrs 14 mins  ██████████░░░░░░░░░░░░░░░   40.40 %
+TypeScript        7 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Markdown          2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+CSS               1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+PHP               55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
