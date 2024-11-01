@@ -35,11 +35,11 @@ In the overview below you will find the most recent posts of my blog.
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           2 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.87 %
-YAML             1 hr 38 mins    ███████░░░░░░░░░░░░░░░░░░   28.51 %
-TypeScript       1 hr 14 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
-Markdown         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-.env file        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Kotlin            4 hrs 8 mins    ████████████░░░░░░░░░░░░░   47.45 %
+YAML              1 hr 57 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+TypeScript        1 hr 57 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
+Markdown          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Java Properties   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
