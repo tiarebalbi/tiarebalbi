@@ -13,7 +13,7 @@ My journey in the realm of software development commenced in 2006, and ever sinc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiarebalbi" alt="tiarebalbi" /> </p>
 
-- 📫 How to reach me **me@tiarebalbi.com**
+- 📫 How to reach @tiarebalbi on X
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
