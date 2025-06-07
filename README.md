@@ -29,15 +29,3 @@ In the overview below you will find the most recent posts of my blog.
 * [The retry pattern](https://tiarebalbi.com/article/week-3-the-retry-pattern?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
 * [Bulkhead, managing concurrent requests](https://tiarebalbi.com/article/week-2-bulkhead-managing-concurrent-requests?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
 
-
-[![wakatime](https://wakatime.com/badge/user/f71f7463-5f32-452d-8823-8dfe2f96a6ec.svg)](https://wakatime.com/@f71f7463-5f32-452d-8823-8dfe2f96a6ec)
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiarebalbi)](https://github.com/ryo-ma/github-profile-trophy)
