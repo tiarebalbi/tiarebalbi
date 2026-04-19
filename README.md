@@ -13,7 +13,6 @@ I keep a personal tech radar to organize what I'm exploring, and I write to turn
 - Event-based architecture
 - Reliability and operational simplicity
 - AI engineering and evaluation
-- Technical writing
 
 ## Here on GitHub
 
